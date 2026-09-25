@@ -782,7 +782,7 @@ If you found this project useful, feel free to explore the code and architecture
 
 # 👨‍💻 Author
 
-**Nitin Kumar Rajvanshi**
+**Akash Bareth**
 
 Data Analytics | Data Engineering | Python | SQL
 
