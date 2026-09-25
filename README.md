@@ -12,7 +12,7 @@
 
 ## 🚀 Live Dashboard
 
-🔗 **[ Live Streamlit Dashboard](https://ecommerce-sales-intelligence-fjfdc8yxuulumgb6gxasoi.streamlit.app/)**
+🔗 **[ Live Streamlit Dashboard](https://akashbareth2121-wq-i32hhs2fhkfdsettonjpu2.streamlit.app/)**
 
 > Replace `YOUR_STREAMLIT_APP_URL` with your Streamlit Community Cloud URL after deployment.
 
